@@ -12,6 +12,18 @@ public class Main {
         // double floating point (double)
         double tinggi = 176.8;
         System.out.println("Tinggi = " + tinggi + "cm");
+        
+        // String (String)
+        String nama = "Sakha Ibadil Kirom";
+        System.out.println("Nama = " + nama);
+        
+        // Karakter (char)
+        char gender = 'L';
+        System.out.println("Gender = " + gender);
+        
+        // Boolean (boolean)
+        boolean sehat = true;
+        System.out.println("Sehat = " + sehat);
     }
     
 }
