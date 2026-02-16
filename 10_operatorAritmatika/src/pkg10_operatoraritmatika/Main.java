@@ -12,6 +12,7 @@ public class Main {
         System.out.print("Masukan angka kedua \t: ");
         angka2 = input.nextInt();
         
+        // + - * / %
         angka3 = angka1 + angka2;
         System.out.println("Hasil penjumlahan dari " + angka1 + " + " + angka2 + " iyalah \t: " + angka3);
         angka3 = angka1 - angka2;
