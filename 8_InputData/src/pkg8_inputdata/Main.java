@@ -4,10 +4,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         int umur;
-        String nama;
-        String alamat;
-        double berat;
-        double tinggi;
+        String nama, alamat;
+        double berat, tinggi;
         Scanner input = new Scanner(System.in);
         
         //Inputan data
